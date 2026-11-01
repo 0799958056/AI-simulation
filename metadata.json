@@ -1,0 +1,6 @@
+{
+  "name": "C# Voting System Desktop App & Designer",
+  "description": "Complete C# Windows Forms desktop voting application featuring single-click responsive controls, rich election graphics, and full .NET source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
